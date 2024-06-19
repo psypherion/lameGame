@@ -1,5 +1,4 @@
 # lameGame
-![Screenshot from 2024-06-20 03-16-05](https://github.com/ky13-troj/lameGame/assets/72155617/ae9af797-9393-443a-b250-18e6cdc5f9ce)
 ## Game Title
 : **Illusion of Choice**
 ___
