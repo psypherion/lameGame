@@ -1,7 +1,7 @@
 # lameGame
-
+![Screenshot from 2024-06-20 03-16-05](https://github.com/ky13-troj/lameGame/assets/72155617/ae9af797-9393-443a-b250-18e6cdc5f9ce)
 ## Game Title
-Illusion of Choice
+: **Illusion of Choice**
 ___
 
 "LameGame" is a simple yet intriguing two-player game where a human competes against a computer. The objective is to pick numbers sequentially until reaching a predefined limit. The catch? The computer uses a strategic algorithm to ensure it always wins, giving the illusion of choice to the player.
