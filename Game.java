@@ -11,7 +11,7 @@ public class Game {
             
             // Determine who starts based on N % 3
             String currentTurn;
-            if (N % 3 == 1) {
+            if (N % 3 == 0) {
                 System.out.println("SAi wishes you to start the game.");
                 currentTurn = "User";
             } else {
